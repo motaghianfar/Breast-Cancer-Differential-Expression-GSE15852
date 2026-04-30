@@ -1,0 +1,87 @@
+sample_id,title,source_name_ch1,histopathological exam:ch1,grade:ch1,age in years:ch1,race,group
+GSM398074,Normal BC0043N,normal breast tissue,normal,normal,37,Malay,Normal
+GSM398075,Cancer BC0043T,breast tumor tissue,mucinous carcinoma,grade 2,37,Malay,Cancer
+GSM398076,Normal BC0051N,normal breast tissue,normal,normal,79,Malay,Normal
+GSM398077,Cancer BC0051T,breast tumor tissue,mixed mucinous carcinoma & ductal carcinoma,grade 2,79,Malay,Cancer
+GSM398078,Normal BC0057N,normal breast tissue,normal,normal,52,Malay,Normal
+GSM398079,Cancer BC0057T,breast tumor tissue,infiltrating ductal carcinoma,grade 3,52,Malay,Cancer
+GSM398080,Normal BC0087N,normal breast tissue,normal,normal,58,Malay,Normal
+GSM398081,Cancer BC0087T,breast tumor tissue,infiltrating ductal carcinoma,grade 1,58,Malay,Cancer
+GSM398082,Normal BC0109N,normal breast tissue,normal,normal,75,Malay,Normal
+GSM398083,Cancer BC0109T,breast tumor tissue,infiltrating ductal carcinoma,grade 3,75,Malay,Cancer
+GSM398084,Normal BC0112N,normal breast tissue,normal,normal,53,Malay,Normal
+GSM398085,Cancer BC0112T,breast tumor tissue,intraductal carcinoma,grade 2,53,Malay,Cancer
+GSM398086,Normal BC0113N,normal breast tissue,normal,normal,30,Malay,Normal
+GSM398087,Cancer BC0113T,breast tumor tissue,infiltrating ductal carcinoma,grade 3,30,Malay,Cancer
+GSM398088,Normal BC0117N,normal breast tissue,normal,normal,46,Indian,Normal
+GSM398089,Cancer BC0117T,breast tumor tissue,infiltrating ductal carcinoma,grade 2,46,Indian,Cancer
+GSM398090,Normal BC0122N,normal breast tissue,normal,normal,53,Malay,Normal
+GSM398091,Cancer BC0122T,breast tumor tissue,infiltrating ductal carcinoma,grade 1,53,Malay,Cancer
+GSM398092,Normal BC0126N,normal breast tissue,normal,normal,52,Malay,Normal
+GSM398093,Cancer BC0126T,breast tumor tissue,infiltrating ductal carcinoma,grade 3,52,Malay,Cancer
+GSM398094,Normal BC0127N,normal breast tissue,normal,normal,22,Malay,Normal
+GSM398095,Cancer BC0127T,breast tumor tissue,ductal carcinoma,grade 1,22,Malay,Cancer
+GSM398096,Normal BC0138N,normal breast tissue,normal,normal,64,Chinese,Normal
+GSM398097,Cancer BC0138T,breast tumor tissue,invasive ductal carcinoma,grade 2,64,Chinese,Cancer
+GSM398098,Normal BC0142N,normal breast tissue,normal,normal,48,Malay,Normal
+GSM398099,Cancer BC0142T,breast tumor tissue,infiltrating ductal carcinoma,grade 3,48,Malay,Cancer
+GSM398100,Normal BC0147N,normal breast tissue,normal,normal,41,Malay,Normal
+GSM398101,Cancer BC0147T,breast tumor tissue,infiltrating ductal carcinoma,grade 2,41,Malay,Cancer
+GSM398102,Normal BC0151N,normal breast tissue,normal,normal,53,Malay,Normal
+GSM398103,Cancer BC0151T,breast tumor tissue,infiltrating ductal carcinoma,grade 2,53,Malay,Cancer
+GSM398104,Normal BC0152N,normal breast tissue,normal,normal,59,Chinese,Normal
+GSM398105,Cancer BC0152T,breast tumor tissue,infiltrating ductal carcinoma,grade 1,59,Chinese,Cancer
+GSM398106,Normal BC0153N,normal breast tissue,normal,normal,43,Malay,Normal
+GSM398107,Cancer BC0153T,breast tumor tissue,infiltrating ductal carcinoma,grade 2,43,Malay,Cancer
+GSM398108,Normal BC0155N,normal breast tissue,normal,normal,49,Indian,Normal
+GSM398109,Cancer BC0155T,breast tumor tissue,lobular carcinoma,grade 1,49,Indian,Cancer
+GSM398110,Normal BC0156N,normal breast tissue,normal,normal,31,Malay,Normal
+GSM398111,Cancer BC0156T,breast tumor tissue,infiltrating ductal carcinoma,grade 3,31,Malay,Cancer
+GSM398112,Normal BC0158N,normal breast tissue,normal,normal,45,Malay,Normal
+GSM398113,Cancer BC0158T,breast tumor tissue,infiltrating ductal carcinoma,grade 3,45,Malay,Cancer
+GSM398114,Normal BC0159N,normal breast tissue,normal,normal,60,Chinese,Normal
+GSM398115,Cancer BC0159T,breast tumor tissue,infiltrating ductal carcinoma,grade 1,60,Chinese,Cancer
+GSM398116,Normal BC0160N,normal breast tissue,normal,normal,31,Malay,Normal
+GSM398117,Cancer BC0160T,breast tumor tissue,infiltrating ductal carcinoma,grade 3,31,Malay,Cancer
+GSM398118,Normal BC0163N,normal breast tissue,normal,normal,45,Chinese,Normal
+GSM398119,Cancer BC0163T,breast tumor tissue,infiltrating ductal carcinoma,grade 2,45,Chinese,Cancer
+GSM398120,Normal BC0164N,normal breast tissue,normal,normal,43,Indian,Normal
+GSM398121,Cancer BC0164T,breast tumor tissue,infiltrating lobular carcinoma,grade 2,43,Indian,Cancer
+GSM398122,Normal BC0165N,normal breast tissue,normal,normal,47,Chinese,Normal
+GSM398123,Cancer BC0165T,breast tumor tissue,infiltrating ductal carcinoma,grade 2,47,Chinese,Cancer
+GSM398124,Normal BC0168N,normal breast tissue,normal,normal,58,Indian,Normal
+GSM398125,Cancer BC0168T,breast tumor tissue,infiltrating ductal carcinoma,grade 2,58,Indian,Cancer
+GSM398126,Normal BC0170N,normal breast tissue,normal,normal,52,Malay,Normal
+GSM398127,Cancer BC0170T,breast tumor tissue,infiltrating ductal carcinoma,grade 2,52,Malay,Cancer
+GSM398128,Normal BC0171N,normal breast tissue,normal,normal,57,Malay,Normal
+GSM398129,Cancer BC0171T,breast tumor tissue,infiltrating ductal carcinoma,grade 2,57,Malay,Cancer
+GSM398130,Normal BC0172N,normal breast tissue,normal,normal,65,Chinese,Normal
+GSM398131,Cancer BC0172T,breast tumor tissue,infiltrating ductal carcinoma,grade 2,65,Chinese,Cancer
+GSM398132,Normal BC0173N,normal breast tissue,normal,normal,43,Malay,Normal
+GSM398133,Cancer BC0173T,breast tumor tissue,infiltrating ductal carcinoma,grade 2,43,Malay,Cancer
+GSM398134,Normal BC0174N,normal breast tissue,normal,normal,57,Malay,Normal
+GSM398135,Cancer BC0174T,breast tumor tissue,infiltrating ductal carcinoma,grade 2,57,Malay,Cancer
+GSM398136,Normal BC0177N,normal breast tissue,normal,normal,58,Chinese,Normal
+GSM398137,Cancer BC0177T,breast tumor tissue,infiltrating ductal carcinoma,grade 2,58,Chinese,Cancer
+GSM398138,Normal BC0179N,normal breast tissue,normal,normal,47,Malay,Normal
+GSM398139,Cancer BC0179T,breast tumor tissue,infiltrating ductal carcinoma,grade 2,47,Malay,Cancer
+GSM398140,Normal BC0180N,normal breast tissue,normal,normal,47,Malay,Normal
+GSM398141,Cancer BC0180T,breast tumor tissue,infiltrating ductal carcinoma,grade 3,47,Malay,Cancer
+GSM398142,Normal BC0181N,normal breast tissue,normal,normal,36,Malay,Normal
+GSM398143,Cancer BC0181T,breast tumor tissue,infiltrating ductal carcinoma,grade 3,36,Malay,Cancer
+GSM398144,Normal BC0183N,normal breast tissue,normal,normal,47,Malay,Normal
+GSM398145,Cancer BC0183T,breast tumor tissue,infiltrating ductal carcinoma,grade 2,47,Malay,Cancer
+GSM398146,Normal BC0185N,normal breast tissue,normal,normal,60,Malay,Normal
+GSM398147,Cancer BC0185T,breast tumor tissue,infiltrating ductal carcinoma,grade 2,60,Malay,Cancer
+GSM398148,Normal BC0186N,normal breast tissue,normal,normal,54,Malay,Normal
+GSM398149,Cancer BC0186T,breast tumor tissue,infiltrating ductal carcinoma,grade 3,54,Malay,Cancer
+GSM398150,Normal BC0188N,normal breast tissue,normal,normal,44,Chinese,Normal
+GSM398151,Cancer BC0188T,breast tumor tissue,infiltrating ductal carcinoma with DCIS,grade 1,44,Chinese,Cancer
+GSM398152,Normal BC0190N,normal breast tissue,normal,normal,54,Malay,Normal
+GSM398153,Cancer BC0190T,breast tumor tissue,infiltrating ductal carcinoma,grade 2,54,Malay,Cancer
+GSM398154,Normal BC0191N,normal breast tissue,normal,normal,70,Malay,Normal
+GSM398155,Cancer BC0191T,breast tumor tissue,infiltrating ductal carcinoma,grade 2,70,Malay,Cancer
+GSM398156,Normal BC0192N,normal breast tissue,normal,normal,56,Chinese,Normal
+GSM398157,Cancer BC0192T,breast tumor tissue,infiltrating ductal carcinoma,grade 3,56,Chinese,Cancer
+GSM398158,Normal BC0194N,normal breast tissue,normal,normal,57,Chinese,Normal
+GSM398159,Cancer BC0194T,breast tumor tissue,infiltrating ductal carcinoma,grade 1,57,Chinese,Cancer
