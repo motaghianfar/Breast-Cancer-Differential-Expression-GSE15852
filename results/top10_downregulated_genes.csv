@@ -1,0 +1,11 @@
+probe_id,Gene Symbol,Gene Title,logFC,P.Value,adj.P.Val,regulation
+205478_at,PPP1R1A,"protein phosphatase 1, regulatory (inhibitor) subunit 1A",-3.200373276568862,5.323402495753466e-19,1.1862137781287452e-14,Downregulated in Cancer
+219140_s_at,RBP4,"retinol binding protein 4, plasma",-4.092829551043846,2.2434119210162493e-18,2.4994973918002544e-14,Downregulated in Cancer
+222317_at,PDE3B,"phosphodiesterase 3B, cGMP-inhibited",-3.723117578667191,1.2422840340582131e-17,6.92045378272979e-14,Downregulated in Cancer
+210964_s_at,GYG2,glycogenin 2,-2.304026562662452,1.2583849159688262e-16,4.005798726076193e-13,Downregulated in Cancer
+221009_s_at,ANGPTL4,angiopoietin-like 4,-2.1258659173100902,1.9358144531725862e-16,5.391969182505592e-13,Downregulated in Cancer
+219295_s_at,PCOLCE2,procollagen C-endopeptidase enhancer 2,-2.5482773843802544,3.356846417341123e-16,8.31117874640136e-13,Downregulated in Cancer
+43427_at,ACACB,acetyl-CoA carboxylase beta,-3.007758985178686,8.966569683670301e-16,1.9980207226122535e-12,Downregulated in Cancer
+205220_at,HCAR3,hydroxycarboxylic acid receptor 3,-1.6220521568947088,1.4669409366010052e-15,2.723987074190017e-12,Downregulated in Cancer
+212741_at,MAOA,monoamine oxidase A,-2.7040939416136105,2.490457784829843e-15,4.268836216874107e-12,Downregulated in Cancer
+205610_at,MYOM1,myomesin 1,-1.6636450569481234,5.500639537175617e-15,8.755053629063162e-12,Downregulated in Cancer

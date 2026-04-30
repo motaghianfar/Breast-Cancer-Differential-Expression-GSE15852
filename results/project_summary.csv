@@ -1,0 +1,2 @@
+dataset,platform,total_samples,normal_samples,cancer_samples,total_probes_tested,upregulated_in_cancer,downregulated_in_cancer,significance_cutoff,method
+GSE15852,GPL96 Affymetrix Human Genome U133A Array,86,43,43,22283,141,267,Adjusted P-value < 0.05 and |log2FC| >= 1,limma

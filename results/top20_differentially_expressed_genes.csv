@@ -1,0 +1,21 @@
+probe_id,Gene Symbol,Gene Title,logFC,P.Value,adj.P.Val,regulation
+205478_at,PPP1R1A,"protein phosphatase 1, regulatory (inhibitor) subunit 1A",-3.200373276568862,5.323402495753466e-19,1.1862137781287452e-14,Downregulated in Cancer
+219140_s_at,RBP4,"retinol binding protein 4, plasma",-4.092829551043846,2.2434119210162493e-18,2.4994973918002544e-14,Downregulated in Cancer
+266_s_at,CD24,CD24 molecule,3.941231048435299,4.2859126339619874e-18,3.183433040752499e-14,Upregulated in Cancer
+222317_at,PDE3B,"phosphodiesterase 3B, cGMP-inhibited",-3.723117578667191,1.2422840340582131e-17,6.92045378272979e-14,Downregulated in Cancer
+201650_at,KRT19,keratin 19,4.683268941636595,2.6944576783834533e-17,1.20081200894837e-13,Upregulated in Cancer
+201839_s_at,EPCAM,epithelial cell adhesion molecule,2.388213224759241,4.7306893940008776e-17,1.756899196108693e-13,Upregulated in Cancer
+210964_s_at,GYG2,glycogenin 2,-2.304026562662452,1.2583849159688262e-16,4.005798726076193e-13,Downregulated in Cancer
+221009_s_at,ANGPTL4,angiopoietin-like 4,-2.1258659173100902,1.9358144531725862e-16,5.391969182505592e-13,Downregulated in Cancer
+219295_s_at,PCOLCE2,procollagen C-endopeptidase enhancer 2,-2.5482773843802544,3.356846417341123e-16,8.31117874640136e-13,Downregulated in Cancer
+43427_at,ACACB,acetyl-CoA carboxylase beta,-3.007758985178686,8.966569683670301e-16,1.9980207226122535e-12,Downregulated in Cancer
+202286_s_at,TACSTD2,tumor-associated calcium signal transducer 2,2.6515140344193284,1.385995749071337e-15,2.723987074190017e-12,Upregulated in Cancer
+205220_at,HCAR3,hydroxycarboxylic acid receptor 3,-1.6220521568947088,1.4669409366010052e-15,2.723987074190017e-12,Downregulated in Cancer
+212741_at,MAOA,monoamine oxidase A,-2.7040939416136105,2.490457784829843e-15,4.268836216874107e-12,Downregulated in Cancer
+205610_at,MYOM1,myomesin 1,-1.6636450569481234,5.500639537175617e-15,8.755053629063162e-12,Downregulated in Cancer
+202988_s_at,RGS1,regulator of G-protein signaling 1,2.3241119359168847,6.914829376748996e-15,1.0041258468894848e-11,Upregulated in Cancer
+214456_x_at,SAA1 /// SAA2,serum amyloid A1 /// serum amyloid A2,-3.4615861827365215,7.209986783750731e-15,1.0041258468894848e-11,Downregulated in Cancer
+204388_s_at,MAOA,monoamine oxidase A,-2.0299472675053547,7.673653086420066e-15,1.0058353630864608e-11,Downregulated in Cancer
+218087_s_at,SORBS1,sorbin and SH3 domain containing 1,-3.1136794880812193,9.033980254949791e-15,1.1183565667835902e-11,Downregulated in Cancer
+210298_x_at,FHL1,four and a half LIM domains 1,-1.960965686655074,1.0063569365542756e-14,1.1802448219599434e-11,Downregulated in Cancer
+209771_x_at,CD24,CD24 molecule,1.8485693872033675,1.1960790453708648e-14,1.3326114683999492e-11,Upregulated in Cancer

@@ -1,0 +1,9 @@
+GSE15852 download and inspection summary
+Number of expression sets: 1
+Genes/probes: 22283
+Samples: 86
+
+Files created:
+data/processed/GSE15852_expression_matrix.csv
+data/processed/GSE15852_sample_metadata.csv
+data/processed/GSE15852_feature_annotation.csv

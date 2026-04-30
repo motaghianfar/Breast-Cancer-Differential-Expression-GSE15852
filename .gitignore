@@ -1,0 +1,24 @@
+# R temporary files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Compressed downloaded files
+*.gz
+*.zip
+*.tar
+*.tar.gz
+
+# Large raw GEO files can be regenerated
+data/raw/
